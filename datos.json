@@ -1,0 +1,24 @@
+{
+    "personas": [
+      {
+       " Nombre": "Manuel",
+        "Apellido": " Herrada",
+        "Fecha_de_nacimiento": " 07/08/1993",
+        "Edad": "28"
+      },
+      {
+        " Nombre": "Manuel",
+        "Apellido": " Herrada",
+        "Fecha_de_nacimiento": " 07/08/1993",
+        "Edad": "28"
+      },
+      
+      {
+        " Nombre": "Manuel",
+        "Apellido": " Herrada",
+        "Fecha_de_nacimiento": " 07/08/1993",
+        "Edad": "28"
+      }
+      
+    ]
+}
